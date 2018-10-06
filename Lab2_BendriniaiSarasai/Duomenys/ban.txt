@@ -1,0 +1,10 @@
+Jonas    Lietuvis 1997       1    170,0 
+Antanas  Lietuvis 1992       5    166,0 
+Igor     Rusas    1996       3    180,0 
+Max      Italas   1992       5    175,0 
+Igor     Rusas    1996       3    180,0 
+Abdul    Iranietis 1995       1    185,3 
+Lee      Kinas    1995       2    189,0 
+Karolis  Lietuvis 1998       1    180,0 
+Hans     Vokietis 1999       1    177,0 
+Suomi    Suomis   1996       3    167,0 
