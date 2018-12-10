@@ -30,7 +30,7 @@ public class TheStack {
         if (topOfStack + 1 < stackSize) {
             topOfStack++;
             stackArray[topOfStack] = input;
-        } else System.out.println("You just been Paksed boi !!! Stack is full");
+        } else System.out.println("Stack is full");
         //displayTheStack();
         //System.out.println("PUSH " + input + " was added to the stack");
     }
@@ -43,7 +43,7 @@ public class TheStack {
             return stackArray[topOfStack--];
         } else {
             //displayTheStack();
-            System.out.println("Your stack is like Rolandas Paksas - EMPTY!!!");
+            System.out.println("Your stack EMPTY!");
             return -1;
         }
     }
